@@ -32,10 +32,6 @@ registerBlockType( 'a8c/related-posts', {
 			type: 'string',
 			default: 'grid',
 		},
-		headline: {
-			type: 'string',
-			default: __( 'Related' ),
-		},
 		displayDate: {
 			type: 'boolean',
 			default: true,
